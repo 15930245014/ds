@@ -1,4 +1,4 @@
-package diffArr
+package main
 
 import "fmt"
 

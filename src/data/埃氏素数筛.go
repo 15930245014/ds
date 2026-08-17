@@ -1,4 +1,4 @@
-package 算法
+package main
 
 /*
 可以使用经典的 埃拉托斯特尼筛法（Sieve of Eratosthenes）埃氏素数筛。

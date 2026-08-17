@@ -1,4 +1,4 @@
-package 算法
+package main
 
 import "fmt"
 
